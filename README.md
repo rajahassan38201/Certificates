@@ -4,6 +4,8 @@
 
 ![Ai Certificate (hp)](https://github.com/user-attachments/assets/6fab04cb-9010-4e71-853c-211473be39cd)
 
+![Data Science Certificate (hp)](https://github.com/user-attachments/assets/96cecc14-88d9-44a6-acf7-6b971604594d)
+
 ![DEP_Certificate](https://github.com/user-attachments/assets/a063e056-7614-4fe7-bc3d-34b36b2331af)
 
 ![PAFLA certificate ](https://github.com/user-attachments/assets/37bad6e0-767b-4c00-b5ba-1051fe3f73e6)
