@@ -2,7 +2,7 @@
 
 ![google-soft-skills-program](https://github.com/user-attachments/assets/292f55c4-5bed-401b-aaf0-c7c141bf1fc8)
 
-![Ai Certificate Hp](https://github.com/user-attachments/assets/fe6fc5f6-cded-4344-9c54-7f2d9a41f44a)
+![Ai Certificate (hp)](https://github.com/user-attachments/assets/6fab04cb-9010-4e71-853c-211473be39cd)
 
 ![DEP_Certificate](https://github.com/user-attachments/assets/a063e056-7614-4fe7-bc3d-34b36b2331af)
 
