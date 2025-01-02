@@ -2,9 +2,9 @@
 
 ![google-soft-skills-program](https://github.com/user-attachments/assets/292f55c4-5bed-401b-aaf0-c7c141bf1fc8)
 
-![Ai Certificate (hp)](https://github.com/user-attachments/assets/6fab04cb-9010-4e71-853c-211473be39cd)
+![Ai Certificate](https://github.com/user-attachments/assets/da83b536-e807-4431-8cd8-84096a38999a)
 
-![Data Science Certificate (hp)](https://github.com/user-attachments/assets/96cecc14-88d9-44a6-acf7-6b971604594d)
+![Data Science Certificate](https://github.com/user-attachments/assets/d3b4e849-8b8c-4153-8d41-c3b96b53af63)
 
 ![DEP_Certificate](https://github.com/user-attachments/assets/a063e056-7614-4fe7-bc3d-34b36b2331af)
 
