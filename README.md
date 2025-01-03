@@ -1,6 +1,6 @@
 # Certificates
 
-![google-soft-skills-program](https://github.com/user-attachments/assets/292f55c4-5bed-401b-aaf0-c7c141bf1fc8)
+![Google-soft-skills-program-certificate](https://github.com/user-attachments/assets/475ccc84-3b34-4cb6-a747-2cd2b77eb4a3)
 
 ![Ai Certificate](https://github.com/user-attachments/assets/da83b536-e807-4431-8cd8-84096a38999a)
 
@@ -8,7 +8,8 @@
 
 ![DEP_Certificate](https://github.com/user-attachments/assets/a063e056-7614-4fe7-bc3d-34b36b2331af)
 
-![PAFLA certificate ](https://github.com/user-attachments/assets/37bad6e0-767b-4c00-b5ba-1051fe3f73e6)
+![PAFLA Membership Certificate ](https://github.com/user-attachments/assets/fb6d4616-4224-4532-8f9b-bca2ef68e995)
+
 
 ![Computer Vision Certificate](https://github.com/user-attachments/assets/50f49e60-3c9e-48b0-bb4d-d3b373dfb0c6)
 
