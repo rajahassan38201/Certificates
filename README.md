@@ -1,5 +1,8 @@
 # Certificates
 
+![AI Engineer](https://github.com/user-attachments/assets/39886d00-0365-4bd3-9e72-206040312cc9)
+
+
 ![Google-soft-skills-program-certificate](https://github.com/user-attachments/assets/475ccc84-3b34-4cb6-a747-2cd2b77eb4a3)
 
 ![Ai Certificate](https://github.com/user-attachments/assets/da83b536-e807-4431-8cd8-84096a38999a)
